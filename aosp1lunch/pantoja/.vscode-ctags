@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+BOARD_HOSTAPD_DRIVER	BoardConfig.mk	/^BOARD_HOSTAPD_DRIVER        := NL80211$/;"	m
+BOARD_HOSTAPD_PRIVATE_LIB	BoardConfig.mk	/^BOARD_HOSTAPD_PRIVATE_LIB   := lib_driver_cmd_simulated$/;"	m
+BOARD_USERDATAIMAGE_PARTITION_SIZE	BoardConfig.mk	/^BOARD_USERDATAIMAGE_PARTITION_SIZE := 576716800$/;"	m
+BOARD_WLAN_DEVICE	BoardConfig.mk	/^BOARD_WLAN_DEVICE           := emulator$/;"	m
+BOARD_WPA_SUPPLICANT_DRIVER	BoardConfig.mk	/^BOARD_WPA_SUPPLICANT_DRIVER := NL80211$/;"	m
+BOARD_WPA_SUPPLICANT_PRIVATE_LIB	BoardConfig.mk	/^BOARD_WPA_SUPPLICANT_PRIVATE_LIB := lib_driver_cmd_simulated$/;"	m
+COMMON_LUNCH_CHOICES	AndroidProducts.mk	/^COMMON_LUNCH_CHOICES := \\$/;"	m
+LOCAL_MODULE	hello_world/Android.mk	/^LOCAL_MODULE = hello_world$/;"	m
+LOCAL_MODULE_TAGS	hello_world/Android.mk	/^LOCAL_MODULE_TAGS = optional$/;"	m
+LOCAL_PATH	hello_world/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_SRC_FILES	hello_world/Android.mk	/^LOCAL_SRC_FILES = hello_world.c$/;"	m
+PRODUCT_BAND	superdroid.mk	/^PRODUCT_BAND	:= Android$/;"	m
+PRODUCT_DEVICE	superdroid.mk	/^PRODUCT_DEVICE	:= superdroid$/;"	m
+PRODUCT_MAKEFILES	AndroidProducts.mk	/^PRODUCT_MAKEFILES := \\$/;"	m
+PRODUCT_MODEL	superdroid.mk	/^PRODUCT_MODEL	:= AOSP Superdroid Emulator$/;"	m
+PRODUCT_NAME	superdroid.mk	/^PRODUCT_NAME	:= superdroid$/;"	m
+TARGET_2ND_ARCH	BoardConfig.mk	/^TARGET_2ND_ARCH := x86$/;"	m
+TARGET_2ND_ARCH_VARIANT	BoardConfig.mk	/^TARGET_2ND_ARCH_VARIANT := x86_64$/;"	m
+TARGET_2ND_CPU_ABI	BoardConfig.mk	/^TARGET_2ND_CPU_ABI := x86$/;"	m
+TARGET_ARCH	BoardConfig.mk	/^TARGET_ARCH := x86_64$/;"	m
+TARGET_ARCH_VARIANT	BoardConfig.mk	/^TARGET_ARCH_VARIANT := x86_64$/;"	m
+TARGET_CPU_ABI	BoardConfig.mk	/^TARGET_CPU_ABI := x86_64$/;"	m
+TARGET_PRELINK_MODULE	BoardConfig.mk	/^TARGET_PRELINK_MODULE := false$/;"	m
+WIFI_DRIVER_FW_PATH_AP	BoardConfig.mk	/^WIFI_DRIVER_FW_PATH_AP      := "\/dev\/null"$/;"	m
+WIFI_DRIVER_FW_PATH_PARAM	BoardConfig.mk	/^WIFI_DRIVER_FW_PATH_PARAM   := "\/dev\/null"$/;"	m
+WIFI_DRIVER_FW_PATH_STA	BoardConfig.mk	/^WIFI_DRIVER_FW_PATH_STA     := "\/dev\/null"$/;"	m
+WPA_SUPPLICANT_VERSION	BoardConfig.mk	/^WPA_SUPPLICANT_VERSION      := VER_0_8_X$/;"	m
+main	hello_world/hello_world.c	/^int main()$/;"	f	typeref:typename:int
