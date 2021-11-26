@@ -1,19 +1,27 @@
 # Android Embarcado - Eldorado Tech-Training 2021.
 
-Trabalho Final Android.
+Trabalho Final Android Embarcado - AOSP.
 
-Integrantes :
+Prof: Mauricio Araujo Mattos Santos
 
-Matheus Coelho
+# 1 - Criação de produtos
+- Criem produtos dentro da estrutura do aosp referentes a cada participante da equipe. A empresa que deve conter esses produtos deve se chamar EldoradoTech. Os produtos devem aparecer na lista de lunch.
+  - Ex de diretório: device/EldoradoTech/mauricio
 
-Felipe Silva
+# 2 - Criação de executáveis
+- Dentro do produto referente ao emulador crie uma aplicação nativa que possa ser executada via comandos adb
 
-Yenin Rodriguez
+# 3 - Criação de aplicação Android com permissões de sistema
+- Dentro do produto referente ao emulador crie uma aplicação android que esteja presente dentro da lista de aplicativos do seu sistema.
 
-Marcelo Araujo
+# 4 - Criação da estrutura de arquivos para a implementação de um serviço de framework
+- Crie toda a estrutura necessária para a implementação de um serviço para o framework do android.
 
-Lucas Simão
-
-Matheus Pantoja
-
-Matheus Serrão
+# Equipe
+- Matheus Coelho
+- Felipe Silva
+- Yenin Rodriguez
+- Matheus Serrão
+- Marcelo Araujo
+- Lucas Simão
+- Matheus Pantoja
