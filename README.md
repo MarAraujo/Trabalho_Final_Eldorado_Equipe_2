@@ -17,6 +17,9 @@ Prof: Mauricio Araujo Mattos Santos
 # 4 - Criação da estrutura de arquivos para a implementação de um serviço de framework
 - Crie toda a estrutura necessária para a implementação de um serviço para o framework do android.
 
+## Documentação das atividades
+  - https://dev.to/maktheus/first-look-at-aosp-47a7
+
 # Equipe
 - Matheus Coelho
 - Felipe Silva
